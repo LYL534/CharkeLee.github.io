@@ -1,0 +1,4 @@
+work/
+tmp/
+.playwright-cli/
+output/
