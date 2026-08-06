@@ -16,6 +16,9 @@
 4. 在仓库 `Settings -> Pages` 中选择从 `main` 分支根目录发布。
 5. 访问 `https://CharkeLee.github.io/`。
 
+当前 GitHub CLI 登录名仍是 `LYL534`，所以改名前的临时 Pages 地址是 `https://lyl534.github.io/CharkeLee.github.io/`。
+用户名改为 `CharkeLee` 后，个人主页地址会变为 `https://CharkeLee.github.io/`。
+
 ## 内容更新
 
 如需添加公开版简历下载、Google Scholar、GitHub、ORCID、论文链接或个人照片，可在 `index.html` 和 `styles.css` 中继续补充。
